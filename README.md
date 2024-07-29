@@ -26,7 +26,7 @@ challenges.
 - **Databases:** [MYSQL]
 - **Tools:** [Git,VScode]
 
-Here are some projects I've worked on:
+## Here are some projects I've worked on:
 
 ### [ShopEase](https://shop-ease-website.netlify.app)
 -  Developed a dynamic shopping website using React JS and CSS.
