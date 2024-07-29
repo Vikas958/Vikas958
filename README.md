@@ -28,7 +28,6 @@ challenges.
 
 Here are some projects I've worked on:
 
-
 ### [ShopEase](https://github.com/Vikas958/shopease)
 - • Developed a dynamic shopping website using React JS and CSS.
 - • Implemented an intuitive Cart System allowing users to easily Add, Update, and Remove items.
@@ -44,7 +43,6 @@ efficiently.
 ## 📫 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/vikas-bale)
-- [Leetcode](https://leetcode.com/u/coder6765)
 - [Twitter](https://x.com/vikas_bale?t=5rKECj9-vtr2kekp2dl7cQ&s=09)
 
 ---
