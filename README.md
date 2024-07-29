@@ -9,10 +9,10 @@ I actively practice coding problems on [LeetCode](https://leetcode.com/u/coder67
 
 
 ## 🌟 About Me:
-- • Passionate and dedicated student with a solid understanding of Data Structures and Algorithms (DSA).
-- • Proficient in front-end development, eager to leverage skills in HTML, CSS, and JavaScript to create intuitive
+-  Passionate and dedicated student with a solid understanding of Data Structures and Algorithms (DSA).
+-  Proficient in front-end development, eager to leverage skills in HTML, CSS, and JavaScript to create intuitive
 user experiences.
-- • A Problem-Solving Enthusiast with a keen eye for detail, adept at crafting efficient solutions to complex
+-  A Problem-Solving Enthusiast with a keen eye for detail, adept at crafting efficient solutions to complex
 challenges.
   
 ## 🌐 Portfolio
@@ -29,15 +29,15 @@ challenges.
 Here are some projects I've worked on:
 
 ### [ShopEase](https://github.com/Vikas958/shopease)
-- • Developed a dynamic shopping website using React JS and CSS.
-- • Implemented an intuitive Cart System allowing users to easily Add, Update, and Remove items.
-- • Designed a Dynamic Price Calculation System that updates totals based on cart contents.
+-  Developed a dynamic shopping website using React JS and CSS.
+- Implemented an intuitive Cart System allowing users to easily Add, Update, and Remove items.
+- Designed a Dynamic Price Calculation System that updates totals based on cart contents.
 
   
 ### [JobHub](https://github.com/Vikas958/jobhub)
-- • Developed a job hub platform enabling job seekers to find opportunities and recruiters to hire talent
+- Developed a job hub platform enabling job seekers to find opportunities and recruiters to hire talent
 efficiently.
-- • Our platform serves as a dynamic bridge, connecting talented job seekers with esteemed recruiters.
+- Our platform serves as a dynamic bridge, connecting talented job seekers with esteemed recruiters.
 
 
 ## 📫 Connect with Me
