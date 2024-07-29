@@ -5,7 +5,7 @@ Welcome to my GitHub profile! This is a special repository where I share a bit a
 
 ## 💻 LeetCode
 
-I actively practice coding problems on [LeetCode](https://leetcode.com/u/coder6765). This helps me improve my problem-solving skills and stay sharp in algorithms and data structures.
+- I actively practice coding problems on [LeetCode](https://leetcode.com/u/coder6765). This helps me improve my problem-solving skills and stay sharp in algorithms and data structures.
 
 
 ## 🌟 About Me:
