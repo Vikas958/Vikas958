@@ -28,13 +28,13 @@ challenges.
 
 Here are some projects I've worked on:
 
-### [ShopEase](https://github.com/Vikas958/shopease)
+### [ShopEase](https://shop-ease-website.netlify.app)
 -  Developed a dynamic shopping website using React JS and CSS.
 - Implemented an intuitive Cart System allowing users to easily Add, Update, and Remove items.
 - Designed a Dynamic Price Calculation System that updates totals based on cart contents.
 
   
-### [JobHub](https://github.com/Vikas958/jobhub)
+### [JobHub](https://job-hub-portal.netlify.app/)
 - Developed a job hub platform enabling job seekers to find opportunities and recruiters to hire talent
 efficiently.
 - Our platform serves as a dynamic bridge, connecting talented job seekers with esteemed recruiters.
